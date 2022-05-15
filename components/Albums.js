@@ -33,10 +33,9 @@ const Albums = () => {
       </header>
 
       <div className="my-36 text-white px-8 grid grid-cols-2 gap-4 md:grid-cols-4 xl:grid-cols-6">
-          {albums.map((album) => (
-              <Album album={album.album}/>
+          {albums.map((album, i) => (
+              <Album key={i} album={album.album}/>
           ))}
-        <Album />
       </div>
     </div>
   );
