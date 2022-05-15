@@ -1,9 +1,14 @@
 # A Spotify Clone
-Built using the following tools:
+![Spotify Clone Preview](https://media.giphy.com/media/Xlaok3mXR1FQlwxJD0/giphy.gif)
+:warning: The Gif above may be slightly hard to read (especially the sidebar) due to video and upload compression. Please view the actual site for the best user experience.
+## :wrench: Built using the following tools:
 - React
 - Next.js
 - Next-Auth
 - TailwindCSS
 - Recoil
-## Functionality
-This project implements most of the core Spotify functionality, such as play/pause and fetching a user's playlists. 
+## :bulb: Functionality
+- Music Play/Pause
+- User Library View
+- Playlist View
+- Audio Control
