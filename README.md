@@ -1,6 +1,7 @@
 # A Spotify Clone
-![Spotify Clone Preview](https://media.giphy.com/media/Xlaok3mXR1FQlwxJD0/giphy.gif)  
-:warning: The Gif above may be slightly hard to read (especially the sidebar) due to video and upload compression. Please view the actual site for the best user experience.
+![Spotify Clone Preview](https://media.giphy.com/media/23E9sXJW1LXf2dwd6k/giphy.gif)  
+:warning: The Gif above may be slightly hard to read (especially the sidebar) due to video and upload compression.  
+Please view the actual site or download the .mp4 in the repo for a higher quality video.
 ## :wrench: Built using the following tools:
 - React
 - Next.js
