@@ -8,7 +8,12 @@ Please view the actual site or download the .mp4 in the repo for a higher qualit
 - Next-Auth
 - TailwindCSS
 - Recoil
-## :bulb: Functionality
+## :bulb: Concepts Learned
+- API Integration
+- Next.js Middleware
+- Authentication and JWT storage
+- Page Routing
+## :mega: Functionality
 - Music Play/Pause
 - User Library View
 - Playlist View

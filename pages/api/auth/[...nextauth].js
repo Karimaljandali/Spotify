@@ -1,6 +1,6 @@
 import NextAuth from "next-auth";
 import SpotifyProvider from "next-auth/providers/spotify";
-import spotifyApi, { LOGIN_URL } from "../../../lib/spotify";
+import spotifyApi, { LOGIN_URL } from "/lib/spotify";
 
 /**
  * Refreshes access token if it has expired within the 1 hour period that was allocated.
